@@ -1,0 +1,3 @@
+name = "Script Name"
+version = "1.0.0"
+files = ["template.py", "template_config.toml", "requirements.txt"]
